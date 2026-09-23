@@ -4,7 +4,7 @@
 
 OAuth 2.0 clients for popular providers
 
-[![x-cmd/install — arctic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/arctic.svg)](https://x-cmd.com/install/arctic)
+[![x-cmd/install — arctic Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/arctic.svg)](https://x-cmd.com/install/arctic)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **338** lines of code across **10** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 6 | 0 | 4 |
-| last720d | 2024-10-02 | 18 | 0 | 0 | 69 | 0 | 186 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 6 | 0 | 4 |
+| last720d | 2024-10-03 | 18 | 0 | 0 | 69 | 0 | 186 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for arctic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:18:51Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:23:16Z._
